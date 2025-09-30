@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nsufiyan
 - 👀 I’m interested in Progaramming
-- 🌱 I’m currently learning Python,web dev
-- 📫 How to reach me ...
+- 🌱 I’m currently learning FullStack
+- 📫 How to reach me email:shaiknizamuddinsufiyan@gmail.com
   
 
 <!---
