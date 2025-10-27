@@ -1,23 +1,17 @@
 - ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Sufiyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sufiyan--01629954/)](https://www.linkedin.com/in/Sufiyan--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Sufiyan-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sufiyan-yellow)](https://stackoverflow.com/users/3687251/Sufiyan-)
+
 
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development ( ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS),database(MongoDB), CI/CD(Docker, Kubernetes) 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Sufiyandeveloper/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sufiyandeveloper&column=7"/>
-  </a>
-</div>
+
 
 Languages and Tools: 
 
@@ -142,7 +136,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Sufiyandeveloper&theme=react-dark&hide_border=true&area=true)
+
 
 <details open="">
 <summary>
