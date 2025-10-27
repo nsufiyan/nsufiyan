@@ -1,7 +1,7 @@
 - ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ShaikNizamuddinSufiyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sufiyan--01629954/)](https://www.linkedin.com/in/shaiknizamuddinsufiyan/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sufiyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sufiyan--01629954/)](https://www.linkedin.com/in/shaiknizamuddinsufiyan/)
 
 
 I'm
