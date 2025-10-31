@@ -156,7 +156,7 @@ Languages and Tools:
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" 
+    src="https://github-readme-streak-stats.herokuapp.com?username=nsufiyan&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" 
     alt="GitHub Streak" 
     height="165" />
 </p>
