@@ -1,3 +1,4 @@
+
 - ### Hi Developers 👋
 
 
@@ -135,26 +136,28 @@ Languages and Tools:
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
+
 <details open>
-<summary>⚡ <strong>GitHub Analytics</strong></summary>
+<summary>📈 <strong>GitHub Stats</strong></summary>
 
 <br />
 
-<div align="center">
+<!-- DARK THEME (default) -->
+<p align="center">
+  <img alt="GitHub Stats" height="160"
+    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" />
+  <img alt="Top Languages" height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF" />
+</p>
 
-<!-- Animated header (typing effect) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Sufiyan+👋;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
-
-<!-- GitHub Stats -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&theme=react&hide_border=true" alt="Top Languages" />
-
-<!-- GitHub Streak -->
-<img height="160" src="https://streak-stats.demolab.com?user=nsufiyan&theme=react&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<!-- LIGHT THEME (copy/paste this if you prefer light mode) -->
+<!--
+<p align="center">
+  <img alt="GitHub Stats (light)" height="160"
+    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=light&title_color=0b7285&text_color=111827&icon_color=0b7285" />
+  <img alt="Top Languages (light)" height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=light&title_color=0b7285&text_color=111827" />
+</p>
+-->
 
 </details>
-
