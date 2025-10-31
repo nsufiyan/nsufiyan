@@ -136,28 +136,27 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
+<!-- Stylish GitHub Stats -->
 <details open>
-<summary>📈 <strong>GitHub Stats</strong></summary>
+<summary>⚡ <strong>GitHub Analytics</strong></summary>
 
 <br />
 
-<!-- DARK THEME (default) -->
-<p align="center">
-  <img alt="GitHub Stats" height="160"
-    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" />
-  <img alt="Top Languages" height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF" />
-</p>
+<div align="center">
 
-<!-- LIGHT THEME (copy/paste this if you prefer light mode) -->
-<!--
-<p align="center">
-  <img alt="GitHub Stats (light)" height="160"
-    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=light&title_color=0b7285&text_color=111827&icon_color=0b7285" />
-  <img alt="Top Languages (light)" height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=light&title_color=0b7285&text_color=111827" />
-</p>
--->
+<!-- Animated header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Sufiyan+👋;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117,0A192F,000000&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" height="165" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117,0A192F,000000&title_color=00FFFF&text_color=FFFFFF" height="165" alt="Top Languages" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=nsufiyan&theme=radical&hide_border=true&background=0D1117,0A192F,000000&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" height="165" alt="GitHub Streak" />
+
+</div>
 
 </details>
 
