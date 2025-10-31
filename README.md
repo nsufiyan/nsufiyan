@@ -137,31 +137,51 @@ Languages and Tools:
     </a>
 
 <details open>
-<summary>
-  📈 <strong>GitHub Stats</strong>
-</summary>
+<summary>📈 <strong>GitHub Stats</strong></summary>
 
-<br>
+<br />
 
+<!-- DARK THEME (default) -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" 
-    alt="GitHub Stats" 
-    height="165" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" 
-    alt="Top Languages" 
-    height="165" />
+  <img alt="GitHub Stats" height="160"
+    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" />
+  <img alt="Top Languages" height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF" />
 </p>
 
+<!-- LIGHT THEME (copy/paste this if you prefer light mode) -->
+<!--
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?username=nsufiyan&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" 
-    alt="GitHub Streak" 
-    height="165" />
+  <img alt="GitHub Stats (light)" height="160"
+    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=light&title_color=0b7285&text_color=111827&icon_color=0b7285" />
+  <img alt="Top Languages (light)" height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=light&title_color=0b7285&text_color=111827" />
 </p>
+-->
+
+</details><details open>
+<summary>📈 <strong>GitHub Stats</strong></summary>
+
+<br />
+
+<!-- DARK THEME (default) -->
+<p align="center">
+  <img alt="GitHub Stats" height="160"
+    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" />
+  <img alt="Top Languages" height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF" />
+</p>
+
+<!-- LIGHT THEME (copy/paste this if you prefer light mode) -->
+<!--
+<p align="center">
+  <img alt="GitHub Stats (light)" height="160"
+    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=light&title_color=0b7285&text_color=111827&icon_color=0b7285" />
+  <img alt="Top Languages (light)" height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=light&title_color=0b7285&text_color=111827" />
+</p>
+-->
 
 </details>
-
 
 
