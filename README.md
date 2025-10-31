@@ -136,18 +136,32 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-
-
-<details open="">
+<details open>
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+  📈 <strong>GitHub Stats</strong>
 </summary>
-<br/>
+
+<br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" 
+    alt="GitHub Stats" 
+    height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" 
+    alt="Top Languages" 
+    height="165" />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" 
+    alt="GitHub Streak" 
+    height="165" />
+</p>
+
 </details>
-<br/>
+
+
+
