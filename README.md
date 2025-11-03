@@ -147,10 +147,11 @@ Languages and Tools:
 <!-- DARK THEME (default) -->
 <p align="center">
   <img alt="GitHub Stats" height="160"
-    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" />
+    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&v=2" />
   <img alt="Top Languages" height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&v=2" />
 </p>
+
 
 <!-- LIGHT THEME (copy/paste this if you prefer light mode) -->
 <!--
