@@ -3,7 +3,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sufiyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sufiyan--01629954/)](https://www.linkedin.com/in/shaiknizamuddinsufiyan/)
-
+![Profile Views](https://komarev.com/ghpvc/?username=nsufiyan&color=00FFFF&style=flat-square)
 
 I'm
 Full Stack Solution Architect
@@ -159,5 +159,6 @@ Languages and Tools:
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=light&title_color=0b7285&text_color=111827" />
 </p>
 -->
+
 
 </details>
