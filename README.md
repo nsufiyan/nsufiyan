@@ -152,8 +152,8 @@ Languages and Tools:
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&v=2" />
 
 </p>
-
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)](https://git.io/streak-stats)
+<p align="center">  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)](https://git.io/streak-stats)</p>
+ 
 <!-- LIGHT THEME (copy/paste this if you prefer light mode) -->
 <!--
 <p align="center">
