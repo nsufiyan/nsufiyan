@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sufiyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sufiyan--01629954/)](https://www.linkedin.com/in/shaiknizamuddinsufiyan/)
 ![Profile Views](https://komarev.com/ghpvc/?username=nsufiyan&color=00FFFF&style=flat-square)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)](https://git.io/streak-stats)
+
 
 
 I'm
@@ -162,5 +162,5 @@ Languages and Tools:
 </p>
 -->
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)](https://git.io/streak-stats)
 </details>
