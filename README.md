@@ -150,6 +150,7 @@ Languages and Tools:
     src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&v=2" />
   <img alt="Top Languages" height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&v=2" />
+        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)](https://git.io/streak-stats)
 </p>
 
 
@@ -163,5 +164,5 @@ Languages and Tools:
 </p>
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)](https://git.io/streak-stats)
+
 </details>
