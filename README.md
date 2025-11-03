@@ -152,7 +152,12 @@ Languages and Tools:
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&v=2" />
 
 </p>
-<p align="center">  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)](https://git.io/streak-stats)</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak"
+      src="https://github-readme-streak-stats.herokuapp.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&v=3" />
+  </a>
+</p>
  
 <!-- LIGHT THEME (copy/paste this if you prefer light mode) -->
 <!--
