@@ -4,6 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sufiyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sufiyan--01629954/)](https://www.linkedin.com/in/shaiknizamuddinsufiyan/)
 ![Profile Views](https://komarev.com/ghpvc/?username=nsufiyan&color=00FFFF&style=flat-square)
+[![GitHub Streak](https://github-readme-streak-stats-beta-flame.vercel.app?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
