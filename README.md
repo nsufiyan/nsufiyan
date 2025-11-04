@@ -141,40 +141,6 @@ Languages and Tools:
     </a>
 
 
-<style>
-  details[open] summary ~ * {
-    animation: fadeIn 0.6s ease-in-out;
-  }
-
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(-10px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  details summary {
-    cursor: pointer;
-    font-size: 1.2rem;
-    color: #00ffff;
-    font-weight: 600;
-  }
-
-  details {
-    border-radius: 10px;
-    background: #0d1117;
-    padding: 10px 15px;
-    box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
-  }
-
-  p img {
-    border-radius: 8px;
-  }
-</style>
 <details open>
   <summary>📈 <strong>GitHub Stats</strong></summary>
   <br />
@@ -186,12 +152,14 @@ Languages and Tools:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&v=6" />
   </p>
 
+
+<!-- streak-->
   <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img alt="GitHub Streak"
-        src="https://github-readme-streak-stats-beta-flame.vercel.app?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&v=7" />
-    </a>
-  </p>
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak"
+      src="https://streak-stats.vercel.app/?user=nsufiyan&theme=dark" />
+  </a>
+</p>
 </details>
 
 
