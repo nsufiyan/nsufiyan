@@ -2,7 +2,7 @@
 - ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sufiyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sufiyan--01629954/)](https://www.linkedin.com/in/shaiknizamuddinsufiyan/)
+[![Linkedin Badge](https://img.shields.io/badge/-SUFIYAN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sufiyan--01629954/)](https://www.linkedin.com/in/shaiknizamuddinsufiyan/)
 ![Profile Views](https://komarev.com/ghpvc/?username=nsufiyan&color=00FFFF&style=flat-square)
 
 
