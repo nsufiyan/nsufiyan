@@ -146,16 +146,17 @@ Languages and Tools:
 
 <p align="center">
   <img alt="GitHub Stats" height="160"
-    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&v=2" />
+    src="https://github-readme-stats.vercel.app/api?username=nsufiyan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" />
   <img alt="Top Languages" height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF&v=2" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsufiyan&layout=compact&langs_count=10&hide_border=true&theme=dark&title_color=00FFFF&text_color=FFFFFF" />
 </p>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak"
-      src="https://streak-stats.demolab.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&v=3" />
+      src="https://github-readme-streak-stats-beta-flame.vercel.app?user=nsufiyan&theme=github-dark&border_radius=5.9&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
 
-
 </details>
+
