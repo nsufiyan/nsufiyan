@@ -192,5 +192,5 @@ Languages and Tools:
      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nsufiyan&theme=github-dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&v=7" />
     </a>
   </p>
-  [![GitHub Streak](https://github-readme-streak-stats-beta-flame.vercel.app?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </details>
+[![GitHub Streak](https://github-readme-streak-stats-beta-flame.vercel.app?user=nsufiyan&theme=dark)](https://git.io/streak-stats)
