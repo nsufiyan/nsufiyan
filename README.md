@@ -154,7 +154,7 @@ Languages and Tools:
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img alt="GitHub Streak"
-      src="https://streak-stats.demolab.com?user=nsufiyan&theme=dark&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&v=3" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=nsufiyan)](https://git.io/streak-stats)
   </a>
 </p>
 
